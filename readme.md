@@ -1,4 +1,4 @@
-# RUST Primer - Ex3 - Types  
+# RUST Primer - Ex4 - Strings   
 
 
 ## Installation
@@ -13,8 +13,10 @@ Open a terminal window or command prompt in the folder of the solution and type 
 
 ## What is covered in this example
 
-- Common types of rust
-- Common defaults 
+- fixed string, string with specific capacity, mutable string declaration and assignment  
+- string manipulation (common functions)
+- basic iteration (for ... in)
+- assert method (eq! and ne!)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
