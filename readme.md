@@ -1,4 +1,4 @@
-# RUST Primer - Ex1 - Printing 
+# RUST Primer - Ex2 - Uses of Variables 
 
 
 ## Installation
@@ -13,10 +13,12 @@ Open a terminal window or command prompt in the folder of the solution and type 
 
 ## What is covered in this example
 
-- Creating a function inside a module
-- Importing the module inside another file .... 
-- Accessing it from elsewhere and executing it 
-- Use of the Print (built-in function) to create a message
+- Uses of Variables 
+- Uses of constants
+- Uses of constants 
+- Converting variables to mutable variables 
+- Multiple assignment of variables
+- using snake_case and uppercase ....
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
