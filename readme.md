@@ -1,4 +1,4 @@
-# RUST Primer - Ex5 - Tuples   
+# RUST Primer - Ex6 - Arrays   
 
 
 ## Installation
@@ -13,7 +13,7 @@ Open a terminal window or command prompt in the folder of the solution and type 
 
 ## What is covered in this example
 
-- tuples 
+- arrays
 - common uses
 - limitations
 
