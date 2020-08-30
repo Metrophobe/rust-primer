@@ -1,10 +1,13 @@
 
 // mod print;
-mod vars;
+//mod vars;
+mod types;
+
 
 fn main() {
  //  print::run();
-   vars::run();
+ //  vars::run();
+   types::run();
 }
 
 //to build and run ... use 'cargo run'

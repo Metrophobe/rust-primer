@@ -2,7 +2,7 @@
 //Variables in rus hold primitive data or references to data 
 //Variables are readonly by default (so you cannot change them once assigned)
 //Scoping is similar to java / c#
-//There are vars , conts and mutable vars (can be changed)
+//There are vars , consts and mutable vars (can be changed)
 
 
 pub fn run(){
