@@ -5,6 +5,7 @@
 
 Follow the official installation of the RUST Programming Language on the following link (depending on your platform)
 
+https://www.rust-lang.org/
 
 ## Usage
 
