@@ -1,5 +1,7 @@
+mod print;
+
 fn main() {
-    println!("Hello, world!");
+   print::run();
 }
 
 //to build and run ... use 'cargo run'
