@@ -1,4 +1,4 @@
-# RUST Primer - Ex4 - Strings   
+# RUST Primer - Ex5 - Tuples   
 
 
 ## Installation
@@ -13,10 +13,9 @@ Open a terminal window or command prompt in the folder of the solution and type 
 
 ## What is covered in this example
 
-- fixed string, string with specific capacity, mutable string declaration and assignment  
-- string manipulation (common functions)
-- basic iteration (for ... in)
-- assert method (eq! and ne!)
+- tuples 
+- common uses
+- limitations
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
